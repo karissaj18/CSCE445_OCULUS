@@ -1,6 +1,8 @@
 # CSCE445_OCULUS
 CSCE445 Group Project 
 
+This project uses the EMIP dataset introduced here - https://acris.aalto.fi/ws/portalfiles/portal/51229125/SCI_Bednarik_EMIP.emip.pdf.
+
 Stimuli:
   - Task 2: Rectangle
       - Java: https://github.com/karissaj18/CSCE445_OCULUS/blob/main/data/rectangle_java.jpg
